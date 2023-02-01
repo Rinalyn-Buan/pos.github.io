@@ -1,0 +1,19 @@
+**Database Name: inventory_system**
+
+**Recommended PHP Version 5.6.3**
+
+
+**Admin Login Details**
+
+Username: Samantha, Brent
+Password: admin
+
+**Store Assistant Login Details**
+
+Username: Erika, Norshida
+Password: assistant
+
+**Cashier Login Details**
+
+Username: Ryan, Mathew, Sean Patrick, Zhev 
+Password: cashier
